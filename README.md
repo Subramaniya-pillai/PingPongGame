@@ -1,4 +1,4 @@
-# PingPongGame
+# <p align="center">Ping Pong Game</p>
 
 ## Aim:
 To develop a ping pong game using C# program in unity .
